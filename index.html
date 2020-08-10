@@ -23,6 +23,20 @@
 
     	<link rel="stylesheet" id="theme-switch" href="css/style.css">
 
+      <!-- jQuery -->
+      <script src="js/jquery.min.js"></script>
+
+      <!-- jQuery Cookie -->
+      <script src="js/jquery.cookie.js"></script>
+
+      <script>
+      	if ( $.cookie('styleCookie') === 'style-light.css') {
+      		$('html, body').css('background', '#eeeeee');
+      	} else if ($.cookie('styleCookie') === 'style.css') {
+      		$('html, body').css('background', '#222222');
+      	}
+      </script>
+
   </head>
   <body>
     <!-- Loader -->
