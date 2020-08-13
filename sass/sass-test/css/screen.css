@@ -1,7 +1,7 @@
 /*
 Error: File to import not found or unreadable: compass/reset.
-       Load path: /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The Green Space/sass/sass-test/sass
-        on line 6 of /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The Green Space/sass/sass-test/sass/screen.scss
+       Load path: /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The-Green-Space/sass/sass-test/sass
+        on line 6 of /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The-Green-Space/sass/sass-test/sass/screen.scss
 
 1: /* Welcome to Compass.
 2:  * In this file you should write your main styles. (or centralize your imports)
@@ -11,7 +11,7 @@ Error: File to import not found or unreadable: compass/reset.
 6: @import "compass/reset";
 
 Backtrace:
-/Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The Green Space/sass/sass-test/sass/screen.scss:6
+/Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The-Green-Space/sass/sass-test/sass/screen.scss:6
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/import_node.rb:44:in `import'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -49,4 +49,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: compass/reset.\A        Load path: /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The Green Space/sass/sass-test/sass\A         on line 6 of /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The Green Space/sass/sass-test/sass/screen.scss\A \A 1: /* Welcome to Compass.\A 2:  * In this file you should write your main styles. (or centralize your imports)\A 3:  * Import this file using the following HTML or equivalent:\A 4:  * <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\A 5: \A 6: @import \"compass/reset\";"; }
+  content: "Error: File to import not found or unreadable: compass/reset.\A        Load path: /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The-Green-Space/sass/sass-test/sass\A         on line 6 of /Volumes/JEN SMITH PORT 2/8) Quality Assurance/Term Project/Term Project/The-Green-Space/sass/sass-test/sass/screen.scss\A \A 1: /* Welcome to Compass.\A 2:  * In this file you should write your main styles. (or centralize your imports)\A 3:  * Import this file using the following HTML or equivalent:\A 4:  * <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\A 5: \A 6: @import \"compass/reset\";"; }
