@@ -274,7 +274,8 @@ h1, h2, h3, h4, h5, h6 {
     position: relative; }
     @media screen and (max-width: 768px) {
       .green-project .green-imgs {
-        margin-bottom: 30px; } }
+        margin-bottom: 30px;
+        height: 60vh; } }
     .green-project .green-imgs .img-holder-1,
     .green-project .green-imgs .img-holder-2 {
       position: absolute;
